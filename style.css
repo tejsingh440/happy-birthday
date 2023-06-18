@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+	height: 100vh;
+    color: #e8eaec;
+	background-color: #2977f5;
+	text-align: center;
+    font-family: Roboto, Arial;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.container{
+    width: 75vh;
+    height: 50vh;
+}
+
+.msg{
+    font-style: italic;
+}
+
