@@ -8,11 +8,13 @@ body{
 	display: flex;
 	align-items: center;
 	justify-content: center;
+	
 }
 
 .container{
     width: 75vh;
     height: 50vh;
+	margin: 10px;
 }
 
 .msg{
